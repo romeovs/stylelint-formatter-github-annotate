@@ -13,5 +13,8 @@
 	"devDependencies": {
 		"@types/stylelint": "^13.13.1",
 		"typescript": "^4.3.5"
+	},
+	"dependencies": {
+		"@actions/core": "^1.4.0"
 	}
 }
