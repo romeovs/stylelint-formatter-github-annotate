@@ -1,0 +1,10 @@
+{
+	"name": "stylelint-formatter-github-annotate",
+	"author": {
+		"name": "Romeo Van Snick",
+		"email": "romeo@romeovansnick.be"
+	},
+	"version": "0.0.1",
+	"main": "dist/index.js",
+	"license": "MIT"
+}
