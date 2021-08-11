@@ -10,6 +10,10 @@
 	"peerDependencies": {
 		"stylelint": ">= 10"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/romeovs/stylelint-formatter-github-annotate.git"
+	},
 	"devDependencies": {
 		"@types/node": "^16.4.13",
 		"@types/stylelint": "^13.13.1",
