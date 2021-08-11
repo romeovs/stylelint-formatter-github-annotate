@@ -9,5 +9,8 @@
 	"license": "MIT",
 	"peerDependencies": {
 		"stylelint": ">= 10"
+	},
+	"devDependencies": {
+		"typescript": "^4.3.5"
 	}
 }
